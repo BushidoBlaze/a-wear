@@ -18,4 +18,4 @@ A-WEAR - is an online platform for purchasing and displaying a collection of hig
 
 The project was developed using the following technologies:
 
-- **HTML5**, **CSS3**, **JavaScript**
+- **HTML**, **CSS**, **JavaScript**
